@@ -2,6 +2,8 @@
 
 <p align="left">Estou atualmente cursando Desenvolvimento de Sistemas 2/3 na  EEEP Deputado Roberto Mesquita. Sempre aprendendo mais. 🚀<br><br>minha área favorita é a de segurança. 🔒 <br><img align="right" height="200" src="https://media.tenor.com/FH4xWxbhf2kAAAAi/pokemon.gif"  /><br>Meus hobbies são 🎮:<br>Ficar em casa<br>Jogar com os amigos<br>Fazer Karatê <br>Ver animes e séries<br>Dormir</p> 
 
+---
+
 <h3 align="left">Experiências:</h3>
 
 <div align="center">
@@ -15,13 +17,10 @@
 </div>
 <br>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph.svg">
 </picture>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RodolfoSantss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RodolfoSantss&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
