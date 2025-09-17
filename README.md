@@ -2,8 +2,6 @@
 
 <p align="left">Estou atualmente cursando Desenvolvimento de Sistemas 2/3 na  EEEP Deputado Roberto Mesquita. Sempre aprendendo mais. 🚀<br><br>minha área favorita é a de segurança. 🔒 <br><img align="right" height="200" src="https://media.tenor.com/FH4xWxbhf2kAAAAi/pokemon.gif"  /><br>Meus hobbies são 🎮:<br>Ficar em casa<br>Jogar com os amigos<br>Fazer Karatê <br>Ver animes e séries<br>Dormir</p> 
 
----
-
 <h3 align="left">Experiências:</h3>
 
 <div align="center">
@@ -16,8 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 <br>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph-dark.svg">
