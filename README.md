@@ -1,6 +1,6 @@
 <h1 align="left">Fala dai chefe</h1>
 
-<p align="left">Estou atualmente cursando Desenvolvimento de Sistemas 2/3 na  EEEP Deputado Roberto Mesquita. Sempre aprendendo mais. 🚀<br><br>minha área favorita é a de segurança. 🔒 <br><img align="right" height="200" src="https://media.tenor.com/FH4xWxbhf2kAAAAi/pokemon.gif"  /><br>Meus hobbies são 🎮:<br>Ficar em casa<br>Jogar com os amigos<br>Fazer Karatê <br>Ver animes e séries<br>Dormir</p> 
+<p align="left">Estou atualmente cursando Desenvolvimento de Sistemas 2/3 na  EEEP Deputado Roberto Mesquita. Sempre aprendendo mais. 🚀<br><br>minha área favorita é a de segurança. 🔒 <br><img align="right" height="200" src="https://media.tenor.com/FH4xWxbhf2kAAAAi/pokemon.gif"  /><br>Meus hobbies são 🎮:<br>Ficar em casa<br>Jogar com os amigos<br>Praticar Karatê <br>Ver animes e séries<br>Dormir</p> 
 
 ---
 
