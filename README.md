@@ -14,24 +14,17 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Atualmente cursando Desenvolvimento de Sistemas 3/3  
-  na **EEEP Deputado Roberto Mesquita**
+- 🎓 Atualmente cursando Desenvolvimento de Sistemas 3/3 na **EEEP Deputado Roberto Mesquita**
 
 - 🔒 Área favorita:
   - Cybersecurity
-  - Segurança da Informação
 
 - 🌱 Atualmente estudando:
   - JavaScript
   - React
   - Git & GitHub
 
-- 🎮 Hobbies:
-  - Ficar em casa
-  - Jogar com os amigos
-  - Praticar Karatê
-  - Ver animes e séries
-  - Dormir 😴
+- 🎮 Gosto de jogos, animes e karatê
 
 ---
 
@@ -64,9 +57,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoSantss&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoSantss&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
