@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou Dante</h1>
+<h1 align="center">Olá 👋, eu sou o Rodolfo</h1>
 
 <p align="center">
-💻 Estudante de Desenvolvimento de Sistemas <br>
+💻 Estudante de Desenvolvimento de Sistemas 3/3<br>
 🔐 Apaixonado por Segurança da Informação <br>
 🚀 Sempre aprendendo novas tecnologias
 </p>
@@ -28,17 +28,16 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoSantss&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoSantss&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-- Discord: seuusuario
-- Email: seuemail@gmail.com
+- Email: rodolfosantss@gmail.com
 
 ---
 
