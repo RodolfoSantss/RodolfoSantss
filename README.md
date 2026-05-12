@@ -1,26 +1,91 @@
-<h1 align="left">Fala dai chefe</h1>
+<h1 align="center">👋 Fala daí, chefe</h1>
 
-<p align="left">Estou atualmente cursando Desenvolvimento de Sistemas 3/3 na  EEEP Deputado Roberto Mesquita. Sempre aprendendo mais. 🚀<br><br>minha área favorita é a de segurança. 🔒 <br><img align="right" height="200" src="https://media.tenor.com/FH4xWxbhf2kAAAAi/pokemon.gif"  /><br>Meus hobbies são 🎮:<br>Ficar em casa<br>Jogar com os amigos<br>Praticar Karatê <br>Ver animes e séries<br>Dormir</p> 
-
----
-
-<h3 align="left">Experiências:</h3>
+<p align="center">
+  💻 Estudante de Desenvolvimento de Sistemas <br>
+  🔐 Apaixonado por Segurança da Informação <br>
+  🚀 Sempre aprendendo novas tecnologias
+</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img height="200" src="https://media.tenor.com/FH4xWxbhf2kAAAAi/pokemon.gif" />
 </div>
-<br>
 
 ---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Atualmente cursando Desenvolvimento de Sistemas 3/3  
+  na **EEEP Deputado Roberto Mesquita**
+
+- 🔒 Área favorita:
+  - Cybersecurity
+  - Segurança da Informação
+
+- 🌱 Atualmente estudando:
+  - JavaScript
+  - React
+  - Git & GitHub
+
+- 🎮 Hobbies:
+  - Ficar em casa
+  - Jogar com os amigos
+  - Praticar Karatê
+  - Ver animes e séries
+  - Dormir 😴
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+<img width="15" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
+
+</div>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph.svg">
+
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoSantss/RodolfoSantss/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+  
+### 🚀 “Sempre evoluindo um commit por vez.”
+
+</div>
